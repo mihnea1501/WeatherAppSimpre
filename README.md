@@ -208,7 +208,7 @@ In plus, in body request-ului avem nevoie obligatoriu de api_key, api_secret, fr
     ]
 }
 
-![](https://user-images.githubusercontent.com/43813156/81852787-3fed3580-9564-11ea-80bd-2cf9290f57be.jpg)
+![](https://user-images.githubusercontent.com/43813156/81856333-51850c00-9569-11ea-8ed6-9f32d263be13.jpg)
 
 ## Autentificare și autorizare servicii utilizate
 
